@@ -1,0 +1,4 @@
+# ninja log v5
+5	381	7116714427361017	build.ninja	d8dc77f71b6c0393
+1	181	7116713671421018	CMakeFiles/search_algorithm.dir/linearSearch.c.obj	e1c96097e32dd062
+183	420	7116713673714971	search_algorithm.exe	9a8780f4a16925
